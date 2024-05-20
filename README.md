@@ -1,4 +1,4 @@
-Instalacion BASE DE DATOS SQL SERVER:
+Instalacion BASE DE DATOS SQL SERVER
 1.Crear una base de datos en un servidor SQL Server usando el nombre Unbc2024
 2.En la carpeta Scripts ejecutar los script respetando el orden numerico
 
